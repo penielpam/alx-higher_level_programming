@@ -3,4 +3,3 @@
         print('{:c}'.format(122 - i), end='')
     else:
         print('{:c}'.format(90 - i), end='')
-
