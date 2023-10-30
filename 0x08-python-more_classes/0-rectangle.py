@@ -1,6 +1,9 @@
 #!/usr/bin/python3
-"""This script defines a custom Rectangle class."""
+"""
+Defines an empty class Rectangle
+"""
+
 
 class Rectangle:
-    """This class serves as a representation of a rectangle."""
+    """Empty representation of a rectangle"""
     pass
