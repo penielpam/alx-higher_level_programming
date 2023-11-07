@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 """
-This script defines a function for checking whether an object is an instance of a specified class.
+This script defines a function 
+for checking whether an object is an instance of a specified class.
 """
 
 
