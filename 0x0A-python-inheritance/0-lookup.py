@@ -4,7 +4,7 @@
 This script defines a function for retrieving a list of available attributes and methods of an object.
 """
 
-def retrieve_attributes_and_methods(obj):
+def lookup(obj):
     """
     Returns a list of available attributes and methods of an object.
     """
